@@ -216,6 +216,7 @@ int main() {
 
     do {
         // Display the menu
+        cout<<"Welcome to Alwetishi program"<<enld;
         cout << "The Menu: \n";
         cout << "******************************\n";
         cout << "1. Insert Country: \n";
